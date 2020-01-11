@@ -27,6 +27,7 @@ Here are some things you can try to get more clues to solve the lab.
 
 ### 1. Try running `ruby lib/welcome.rb`
 
+
 When you run `ruby lib/welcome.rb` from your terminal you are asking the Ruby interpreter to run your program. If you see no output, like below, that means there is no code in `lib/welcome.rb` to print "Welcome to Tic Tac Toe!".
 
 **Note:** The file `welcome.rb` already exists in the folder `lib`, but is not displayed in Learn IDE default view. 
